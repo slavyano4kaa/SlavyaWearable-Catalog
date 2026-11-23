@@ -19,3 +19,8 @@ New catalog versions are picked up by the app without reinstalling it. Each prep
 - **Compile Time** — KadirOzturkk; Apache-2.0; [source](https://github.com/KadirOzturkk/compile-time-watchface)
 - **Минимальный** — SlavyaWearable; Personal collection; [source](https://github.com/slavyano4kaa/SlavyaWearable)
 - **Синий** — SlavyaWearable; Personal collection; [source](https://github.com/slavyano4kaa/SlavyaWearable)
+- **Rosé Pine** — Shaun Lastra; MIT; [source](https://github.com/slastra/rosepine-watchface)
+- **Azimut 03** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
+- **Azimut Sakura** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
+- **Meridian 01** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
+- **Meridian 02** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
