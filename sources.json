@@ -380,7 +380,11 @@
       "LICENSES/OFL-JetBrainsMono.txt",
       "LICENSES/OFL-Sora.txt"
     ],
-    "publishSources": true
+    "publishSources": true,
+    "normalizeWFF": [
+      "literalTemplates",
+      "resourceNames"
+    ]
   },
   {
     "id": "pixel_dot_matrix",
@@ -396,6 +400,346 @@
       "Ретро"
     ],
     "summary": "Матричная типографика и ретро-дисплей. Функции Pomodoro требуют отдельного приложения автора.",
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "omarchy",
+    "name": "Omarchy",
+    "author": "maTzko13",
+    "repository": "maTzko13/omarchy-watchface",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "category": "Ретро",
+    "styles": [
+      "Ретро",
+      "Цифровые"
+    ],
+    "noticePaths": [
+      "fonts/LICENSE-DepartureMono.txt"
+    ],
+    "summary": "Терминальная типографика Departure Mono, палитры Omarchy и настраиваемый информер.",
+    "license": "MIT",
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "raster90",
+    "name": "Raster90",
+    "author": "byebyebryan",
+    "repository": "byebyebryan/raster90",
+    "branch": "main",
+    "module": "watchfaces/raster90/src/main",
+    "category": "Ретро",
+    "styles": [
+      "Ретро",
+      "Цифровые",
+      "Информационные"
+    ],
+    "noticePaths": [
+      "LICENSES/CC0-1.0.txt",
+      "third_party/pixel-operator/LICENSE.txt"
+    ],
+    "summary": "Пиксельный дисплей 150×150, оригинальная графика погоды и ретро-типографика.",
+    "license": "MIT",
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "christmas_knit",
+    "name": "Tricô de Natal",
+    "author": "kaiocolombaroli",
+    "repository": "kaiocolombaroli/trico-de-natal-wearos",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "category": "Иллюстрации",
+    "styles": [
+      "Иллюстрации",
+      "Цифровые"
+    ],
+    "noticePaths": [],
+    "summary": "Рождественский вязаный узор, праздничная графика и цифровое время. Подписи на португальском.",
+    "license": "MIT",
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "clawd",
+    "name": "Clawd",
+    "author": "JeffClouse77",
+    "repository": "JeffClouse77/clawd-watch-face",
+    "branch": "main",
+    "module": "",
+    "category": "Иллюстрации",
+    "styles": [
+      "Иллюстрации",
+      "Цифровые"
+    ],
+    "noticePaths": [],
+    "summary": "Пиксельный персонаж Clawd на чёрном фоне. Анимация на активном экране.",
+    "license": "MIT",
+    "sparse": true,
+    "publishSources": true,
+    "normalizeWFF": [
+      "variantOrder"
+    ]
+  },
+  {
+    "id": "earth_day_night",
+    "name": "Earth Day/Night",
+    "author": "henderjj",
+    "repository": "henderjj/wear-os-watch-faces",
+    "branch": "main",
+    "module": "faces/earth-day-night/watchface/src/main",
+    "category": "Космос",
+    "styles": [
+      "Космос",
+      "Аналоговые"
+    ],
+    "noticePaths": [],
+    "summary": "Земля с дневной и ночной стороной, орбита времени и стрелки.",
+    "license": "MIT",
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "wristlab_alpine",
+    "name": "Alpine · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/alpine",
+    "license": "Apache-2.0",
+    "category": "Цифровые",
+    "styles": [
+      "Классические",
+      "Цифровые"
+    ],
+    "summary": "Цифровые часы на фоне гор, шаги и заряд.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_atelier",
+    "name": "Atelier · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/atelier",
+    "license": "Apache-2.0",
+    "category": "Минимализм",
+    "styles": [
+      "Минимализм",
+      "Аналоговые"
+    ],
+    "summary": "Сдержанная композиция с оригинальной типографикой.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_dolomites",
+    "name": "Dolomites · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/dolomites",
+    "license": "Apache-2.0",
+    "category": "Иллюстрации",
+    "styles": [
+      "Иллюстрации",
+      "Цифровые"
+    ],
+    "summary": "Горный пейзаж Доломитовых Альп.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_earth",
+    "name": "Earth · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/earth",
+    "license": "Apache-2.0",
+    "category": "Космос",
+    "styles": [
+      "Космос",
+      "Цифровые"
+    ],
+    "summary": "Земля, цифровое время, шаги и заряд.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_instrument",
+    "name": "Instrument · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/instrument",
+    "license": "Apache-2.0",
+    "category": "Технические",
+    "styles": [
+      "Технические",
+      "Информационные",
+      "Аналоговые"
+    ],
+    "summary": "Приборная компоновка с несколькими показателями.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_meridian",
+    "name": "Meridian · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/meridian",
+    "license": "Apache-2.0",
+    "category": "Аналоговые",
+    "styles": [
+      "Классические",
+      "Аналоговые"
+    ],
+    "summary": "Классическая шкала и стрелочная композиция.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_milkyway",
+    "name": "Milkyway · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/milkyway",
+    "license": "Apache-2.0",
+    "category": "Космос",
+    "styles": [
+      "Космос",
+      "Цифровые"
+    ],
+    "summary": "Млечный Путь, цифровое время, шаги и заряд.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_orbit",
+    "name": "Orbit · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/orbit",
+    "license": "Apache-2.0",
+    "category": "Космос",
+    "styles": [
+      "Космос",
+      "Цифровые"
+    ],
+    "summary": "Цифровое время в орбитальном кольце, шаги и заряд.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_terminal",
+    "name": "Terminal · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/terminal",
+    "license": "Apache-2.0",
+    "category": "Ретро",
+    "styles": [
+      "Ретро",
+      "Цифровые"
+    ],
+    "summary": "Цифровой терминальный интерфейс.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "wristlab_tokyo",
+    "name": "Tokyo · WristLab",
+    "author": "vishwateja2345 · WristLab",
+    "repository": "vishwateja2345/WristLab",
+    "branch": "main",
+    "module": "faces/tokyo",
+    "license": "Apache-2.0",
+    "category": "Цифровые",
+    "styles": [
+      "Необычные",
+      "Цифровые"
+    ],
+    "summary": "Японская городская эстетика и цифровая композиция.",
+    "sparse": true,
+    "publishSources": true,
+    "noticePaths": [
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Outfit.txt",
+      "LICENSES/OFL-Rajdhani.txt"
+    ]
+  },
+  {
+    "id": "solar_path",
+    "name": "Solar Path",
+    "author": "amoledwatchfaces",
+    "repository": "amoledwatchfaces/Solar-Path-Watch-Face-Wear-OS",
+    "branch": "master",
+    "module": "wear/watchface/src/main",
+    "overlays": [
+      "wear/watchface/src/wff4"
+    ],
+    "license": "GPL-3.0",
+    "category": "Космос",
+    "styles": [
+      "Космос",
+      "Информационные"
+    ],
+    "summary": "Суточный солнечный цикл, положение Солнца и пять фаз сумерек. Требует WFF 4.",
     "sparse": true,
     "publishSources": true
   }
