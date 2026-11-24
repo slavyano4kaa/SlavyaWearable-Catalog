@@ -15,7 +15,6 @@ Watch Faces/ contains brand folders with the same portable WFF resources. Brand 
 - **Radar** — Northstar Labs; GPL-3.0; [source](https://github.com/northstar-labs-ui/avionics-for-wear-os)
 - **Radiocompass** — Northstar Labs; GPL-3.0; [source](https://github.com/northstar-labs-ui/avionics-for-wear-os)
 - **Azimut 03** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
-- **Синий** — SlavyaWearable; Personal collection; [source](https://github.com/slavyano4kaa/SlavyaWearable-Catalog)
 - **Классический** — Google · Android Developers; Apache-2.0; [source](https://github.com/android/wear-os-samples)
 - **Compile Time** — KadirOzturkk; Apache-2.0; [source](https://github.com/KadirOzturkk/compile-time-watchface)
 - **Модульный** — Google · Android Developers; Apache-2.0; [source](https://github.com/android/wear-os-samples)
@@ -26,7 +25,6 @@ Watch Faces/ contains brand folders with the same portable WFF resources. Brand 
 - **Meridian 01** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
 - **Meridian 02** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
 - **Meridian** — johnhringiv; Apache-2.0; [source](https://github.com/johnhringiv/meridian)
-- **Минимальный** — SlavyaWearable; Personal collection; [source](https://github.com/slavyano4kaa/SlavyaWearable-Catalog)
 - **Orrery** — johnhringiv; Apache-2.0; [source](https://github.com/johnhringiv/orrery)
 - **Pixel Dot Matrix** — WingsDavis; MIT; [source](https://github.com/WingsDavis/pixel-dot-matrix)
 - **Rosé Pine** — Shaun Lastra; MIT; [source](https://github.com/slastra/rosepine-watchface)
@@ -38,16 +36,11 @@ Watch Faces/ contains brand folders with the same portable WFF resources. Brand 
 - **Omarchy** — maTzko13; MIT; [source](https://github.com/maTzko13/omarchy-watchface)
 - **Raster90** — byebyebryan; MIT; [source](https://github.com/byebyebryan/raster90)
 - **Tricô de Natal** — kaiocolombaroli; MIT; [source](https://github.com/kaiocolombaroli/trico-de-natal-wearos)
-- **Alpine · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
 - **Atelier · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
-- **Dolomites · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
-- **Earth · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
 - **Instrument · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
 - **Meridian · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
-- **Milkyway · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
 - **Orbit · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
 - **Terminal · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
-- **Tokyo · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
 - **Forest Digital** — ryokkon624; MIT; [source](https://github.com/ryokkon624/forestdigital)
 - **Solar Path** — amoledwatchfaces; GPL-3.0; [source](https://github.com/amoledwatchfaces/Solar-Path-Watch-Face-Wear-OS)
 - **Wristling** — Mikalio; MIT; [source](https://github.com/Mikalio/wristling)
@@ -61,3 +54,5 @@ Variants are grouped and are not counted as independent designs.
 - **Horizon** — 16 variations; SlavyaWearable Studio
 - **Offset** — 16 variations; SlavyaWearable Studio
 - **Orbit** — 16 variations; SlavyaWearable Studio
+- **Пейзажи WristLab** — 5 variations; vishwateja2345 · WristLab
+- **Простой** — 2 variations; SlavyaWearable
