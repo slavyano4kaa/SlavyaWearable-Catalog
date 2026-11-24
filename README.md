@@ -45,6 +45,11 @@ Watch Faces/ contains brand folders with the same portable WFF resources. Brand 
 - **Solar Path** — amoledwatchfaces; GPL-3.0; [source](https://github.com/amoledwatchfaces/Solar-Path-Watch-Face-Wear-OS)
 - **Wristling** — Mikalio; MIT; [source](https://github.com/Mikalio/wristling)
 - **Planetary Orbit** — Sergio De Lucio; CC-BY-NC-SA-4.0; [source](https://github.com/Sergio99778/orbit-watchface)
+- **Nixie** — xellio; MIT; [source](https://github.com/xellio/nixie)
+- **Pilot Watch** — xellio; MIT; [source](https://github.com/xellio/pilotwatch)
+- **Clear** — fezdk; MIT; [source](https://github.com/fezdk/clear-watchface)
+- **DataDial** — ls6777; MIT; [source](https://github.com/ls6777/wearos-datadial)
+- **Phosphor** — xellio; MIT; [source](https://github.com/xellio/phosphor)
 
 ## Variant collections
 
@@ -56,3 +61,4 @@ Variants are grouped and are not counted as independent designs.
 - **Orbit** — 16 variations; SlavyaWearable Studio
 - **Пейзажи WristLab** — 5 variations; vishwateja2345 · WristLab
 - **Простой** — 2 variations; SlavyaWearable
+- **Числовые системы** — 2 variations; pburney

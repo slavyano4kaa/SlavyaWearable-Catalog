@@ -800,5 +800,227 @@
     "summary": "Планетарная композиция времени. Автор разрешает некоммерческое распространение с указанием авторства и той же лицензией.",
     "sparse": true,
     "publishSources": true
+  },
+  {
+    "id": "pilot",
+    "name": "Pilot Watch",
+    "author": "xellio",
+    "repository": "xellio/pilotwatch",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Аналоговые",
+    "styles": [
+      "Аналоговые",
+      "Классические"
+    ],
+    "summary": "Пилотские шкалы Baumuster A и B; оформление выбирается в редакторе часов.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "phosphor",
+    "name": "Phosphor",
+    "author": "xellio",
+    "repository": "xellio/phosphor",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Ретро",
+    "styles": [
+      "Ретро",
+      "Цифровые",
+      "Технические"
+    ],
+    "summary": "Ретро-терминал с эффектом свечения и цветовыми темами.",
+    "noticePaths": [
+      "tools/fonts/OFL.txt"
+    ],
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "nixie",
+    "name": "Nixie",
+    "author": "xellio",
+    "repository": "xellio/nixie",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Ретро",
+    "styles": [
+      "Ретро",
+      "Цифровые"
+    ],
+    "summary": "Ламповые цифры с подсветкой катодов и цветовыми темами.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "lumeworks",
+    "name": "Lumeworks",
+    "author": "siddharthjaswal",
+    "repository": "siddharthjaswal/lumeworks",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Аналоговые",
+    "styles": [
+      "Аналоговые",
+      "Минимализм"
+    ],
+    "summary": "Векторная композиция без фоновых растровых изображений.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true,
+    "normalizeWFF": [
+      "strokeWidth",
+      "textVerticalCenter",
+      "literalTemplates"
+    ],
+    "enabled": false,
+    "exclusionReason": "Current upstream WFF definition still fails official schema validation; no binary published"
+  },
+  {
+    "id": "datadial",
+    "name": "DataDial",
+    "author": "ls6777",
+    "repository": "ls6777/wearos-datadial",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Информационные",
+    "styles": [
+      "Аналоговые",
+      "Цифровые",
+      "Информационные"
+    ],
+    "summary": "Восемь информеров вокруг стрелок или цифрового времени. Шаги, калории и этажи требуют Google Health; без него эти три поля пустые. Высота требует DataDial Stats.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "clear",
+    "name": "Clear",
+    "author": "fezdk",
+    "repository": "fezdk/clear-watchface",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Минимализм",
+    "styles": [
+      "Минимализм",
+      "Цифровые"
+    ],
+    "summary": "Крупное цифровое время, контурный AOD, дуги заряда/шагов и погода. Подписи прогноза на датском; дата следует языку часов.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "max_complications",
+    "name": "Max Complications",
+    "author": "stephansdigitalerassistent",
+    "repository": "stephansdigitalerassistent/wearos-max-complications",
+    "branch": "master",
+    "module": "app/src/main",
+    "license": "Apache-2.0",
+    "category": "Информационные",
+    "styles": [
+      "Информационные"
+    ],
+    "summary": "Небольшие часы и много настраиваемых информеров. Источники выбираются в редакторе Wear OS.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true,
+    "normalizeWFF": [
+      "groupNames",
+      "textAlignment"
+    ],
+    "enabled": false,
+    "exclusionReason": "Current upstream WFF definition still fails official schema validation; no binary published"
+  },
+  {
+    "id": "binary_bcd",
+    "name": "Binary BCD",
+    "author": "pburney",
+    "repository": "pburney/BinaryWatchFace",
+    "branch": "main",
+    "module": "app/src/main",
+    "license": "Apache-2.0",
+    "category": "Необычные",
+    "styles": [
+      "Необычные",
+      "Цифровые"
+    ],
+    "summary": "Время двоичными индикаторами BCD.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "quinary",
+    "name": "Quinary",
+    "author": "pburney",
+    "repository": "pburney/QuinaryWatchFace",
+    "branch": "main",
+    "module": "app/src/main",
+    "license": "Apache-2.0",
+    "category": "Необычные",
+    "styles": [
+      "Необычные",
+      "Цифровые"
+    ],
+    "summary": "Время в пятеричной системе счисления.",
+    "noticePaths": [],
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "hex_editor",
+    "name": "Hex Editor",
+    "author": "nitish1306",
+    "repository": "nitish1306/wear-os-hex-editor-watchface",
+    "branch": "main",
+    "module": "wff/src/main",
+    "license": "GPL-3.0",
+    "category": "Технические",
+    "styles": [
+      "Технические",
+      "Ретро",
+      "Цифровые"
+    ],
+    "summary": "Время и показатели в стиле шестнадцатеричного редактора и CRT-терминала.",
+    "noticePaths": [],
+    "sparse": false,
+    "publishSources": true,
+    "enabled": false,
+    "exclusionReason": "Prepared package exceeds the current 2 MiB BLE transfer limit"
+  },
+  {
+    "id": "cascadia_terminal",
+    "name": "Black",
+    "author": "mustofa-id",
+    "repository": "mustofa-id/xiaomi-watch2",
+    "branch": "main",
+    "module": "watchface/face/src/main",
+    "license": "Apache-2.0",
+    "category": "Аналоговые",
+    "styles": [
+      "Аналоговые",
+      "Минимализм"
+    ],
+    "summary": "Терминальный циферблат со шрифтом Cascadia Code.",
+    "noticePaths": [
+      "watchface/licenses/CascadiaCode-OFL.txt"
+    ],
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true,
+    "enabled": false,
+    "exclusionReason": "Personal dedication is baked into this design; omitted from the general catalog without altering the author artwork"
   }
 ]

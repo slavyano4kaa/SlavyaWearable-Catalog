@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T21:18:18.417447+00:00",
+  "updatedAt": "2026-11-24T21:42:28.171517+00:00",
   "items": [
     {
       "id": "avionics_radar",
@@ -24,7 +24,7 @@
       "bytes": 99825,
       "minimumSDK": 33,
       "wffVersion": 1,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Radar/avionics_radar-b4e6fe3cae2b-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Radar/avionics_radar-c2c14e126fb0e86a-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -55,7 +55,7 @@
       "bytes": 46027,
       "minimumSDK": 33,
       "wffVersion": 1,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Radiocompass/avionics_radiocompass-b4e6fe3cae2b-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Radiocompass/avionics_radiocompass-d26bb53da0f4e066-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -137,7 +137,7 @@
       "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Compile%20Time/compiletime-a313e7dae4dff399.swf",
       "sha256": "a313e7dae4dff399265d9b7e30bf6f68a0c0f5dbdaa850b931aecb13cd7101cd",
       "bytes": 439671,
-      "minimumSDK": 33,
+      "minimumSDK": 36,
       "sourceRelease": "v1.0.0",
       "brands": [
         "Galaxy Watch",
@@ -146,7 +146,7 @@
         "Другие Wear OS"
       ],
       "displayShape": "round",
-      "wffVersion": 1,
+      "wffVersion": 4,
       "styles": [
         "Цифровые",
         "Ретро"
@@ -434,7 +434,7 @@
       "bytes": 1016444,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Pixel%20Dot%20Matrix/pixel_dot_matrix-0ea7b43b6548-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Pixel%20Dot%20Matrix/pixel_dot_matrix-96ef7931ff93851b-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -525,7 +525,7 @@
         "Другие Wear OS"
       ],
       "displayShape": "round",
-      "wffVersion": 1,
+      "wffVersion": 4,
       "styles": [
         "Минимализм",
         "Аналоговые"
@@ -553,7 +553,7 @@
       "bytes": 103549,
       "minimumSDK": 33,
       "wffVersion": 1,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Artificial%20Horizon/avionics_artificial_horizon-b4e6fe3cae2b-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Artificial%20Horizon/avionics_artificial_horizon-cb00f0f9cc151900-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -584,7 +584,7 @@
       "bytes": 140559,
       "minimumSDK": 33,
       "wffVersion": 1,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Gyro/avionics_gyro-b4e6fe3cae2b-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Gyro/avionics_gyro-e3b5b8d06caaec7e-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -615,7 +615,7 @@
       "bytes": 103538,
       "minimumSDK": 33,
       "wffVersion": 1,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Turn%20Coordinator/avionics_turn_coordinator-b4e6fe3cae2b-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Turn%20Coordinator/avionics_turn_coordinator-797cd576cb2e7e87-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -645,7 +645,7 @@
       "bytes": 115812,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Omarchy/omarchy-40fcb4ed48bd-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Omarchy/omarchy-bcd38988147a3519-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -676,7 +676,7 @@
       "bytes": 140798,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Raster90/raster90-d89e20bcd1ce-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Raster90/raster90-51942756d18cc1e7-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -706,7 +706,7 @@
       "bytes": 990427,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Tric%C3%B4%20de%20Natal/christmas_knit-4726379195b3-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Tric%C3%B4%20de%20Natal/christmas_knit-255ef07e593d65a2-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -736,7 +736,7 @@
       "bytes": 456820,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Atelier%20%C2%B7%20WristLab/wristlab_atelier-ad88f9e4a21d-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Atelier%20%C2%B7%20WristLab/wristlab_atelier-324ae150f0c3f9fe-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -767,7 +767,7 @@
       "bytes": 596399,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Instrument%20%C2%B7%20WristLab/wristlab_instrument-ad88f9e4a21d-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Instrument%20%C2%B7%20WristLab/wristlab_instrument-0bafb6dc67f1494a-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -797,7 +797,7 @@
       "bytes": 305052,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%20%C2%B7%20WristLab/wristlab_meridian-ad88f9e4a21d-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%20%C2%B7%20WristLab/wristlab_meridian-105873868850d5da-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -827,7 +827,7 @@
       "bytes": 321210,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%20%C2%B7%20WristLab/wristlab_orbit-ad88f9e4a21d-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%20%C2%B7%20WristLab/wristlab_orbit-fddbab556f9de613-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -857,7 +857,7 @@
       "bytes": 300736,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Terminal%20%C2%B7%20WristLab/wristlab_terminal-ad88f9e4a21d-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Terminal%20%C2%B7%20WristLab/wristlab_terminal-a25d7952d6779784-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -887,7 +887,7 @@
       "bytes": 420884,
       "minimumSDK": 36,
       "wffVersion": 4,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Forest%20Digital/forest_digital-86cb1a5a4571664f-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Forest%20Digital/forest_digital-1a4a9fb1c2b8d222-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -917,7 +917,7 @@
       "bytes": 189178,
       "minimumSDK": 36,
       "wffVersion": 4,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Solar%20Path/solar_path-16d37a8aa9732b96-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Solar%20Path/solar_path-6dc08f4444f2f2c2-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -947,7 +947,7 @@
       "bytes": 195468,
       "minimumSDK": 34,
       "wffVersion": 2,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Wristling/wristling-a3223341e6408f99-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Wristling/wristling-09a4c06003f0505f-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -977,7 +977,159 @@
       "bytes": 165510,
       "minimumSDK": 36,
       "wffVersion": 4,
-      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Planetary%20Orbit/planetary_orbit-34af13d8d1d23af3-source.zip",
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Planetary%20Orbit/planetary_orbit-88d8a3a86c59ebc6-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "nixie",
+      "name": "Nixie",
+      "author": "xellio",
+      "summary": "Ламповые цифры с подсветкой катодов и цветовыми темами.",
+      "category": "Ретро",
+      "styles": [
+        "Ретро",
+        "Цифровые"
+      ],
+      "sourceURL": "https://github.com/xellio/nixie",
+      "sourceRevision": "6dedda2f962bc1d676e28313ba6b0cc4d315d2ec",
+      "updatedAt": "2026-10-02T19:01:02Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Nixie/nixie-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Nixie/nixie-01a3b1bf8ef3e03e.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Nixie/nixie-01a3b1bf8ef3e03e.swf",
+      "sha256": "01a3b1bf8ef3e03eb6f34d9f6513b470846ce61d16439477d99ebaf60fad654e",
+      "bytes": 178974,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Nixie/nixie-5c3007c291ba4290-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "pilot",
+      "name": "Pilot Watch",
+      "author": "xellio",
+      "summary": "Пилотские шкалы Baumuster A и B; оформление выбирается в редакторе часов.",
+      "category": "Аналоговые",
+      "styles": [
+        "Аналоговые",
+        "Классические"
+      ],
+      "sourceURL": "https://github.com/xellio/pilotwatch",
+      "sourceRevision": "808c7b8f4a0901c4d268a0eeb2e9b09b6ac30776",
+      "updatedAt": "2026-10-02T14:27:56Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Pilot%20Watch/pilot-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Pilot%20Watch/pilot-feee8800f5facd0d.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Pilot%20Watch/pilot-feee8800f5facd0d.swf",
+      "sha256": "feee8800f5facd0d712989a689daf474f440b4896c9a5bb464f6719ec223b936",
+      "bytes": 567044,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Pilot%20Watch/pilot-b9ac5671611326c0-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "clear",
+      "name": "Clear",
+      "author": "fezdk",
+      "summary": "Крупное цифровое время, контурный AOD, дуги заряда/шагов и погода. Подписи прогноза на датском; дата следует языку часов.",
+      "category": "Минимализм",
+      "styles": [
+        "Минимализм",
+        "Цифровые"
+      ],
+      "sourceURL": "https://github.com/fezdk/clear-watchface",
+      "sourceRevision": "5f4a2624cf8f23b50f4958a99f88b73d6877faaf",
+      "updatedAt": "2026-10-22T13:48:09Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Clear/clear-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Clear/clear-80f57b20c9620557.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Clear/clear-80f57b20c9620557.swf",
+      "sha256": "80f57b20c9620557f1b7c53640597f2d4b61f849676cc92d7e36fa3efc80ca8e",
+      "bytes": 825733,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Clear/clear-b4ab6d74ba807d56-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "datadial",
+      "name": "DataDial",
+      "author": "ls6777",
+      "summary": "Восемь информеров вокруг стрелок или цифрового времени. Шаги, калории и этажи требуют Google Health; без него эти три поля пустые. Высота требует DataDial Stats.",
+      "category": "Информационные",
+      "styles": [
+        "Аналоговые",
+        "Цифровые",
+        "Информационные"
+      ],
+      "sourceURL": "https://github.com/ls6777/wearos-datadial",
+      "sourceRevision": "f30058d45ea5787ddfdf66f30abe0c0b714d5842",
+      "updatedAt": "2026-11-24T19:25:32Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/DataDial/datadial-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/DataDial/datadial-4845c107e1136eb4.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/DataDial/datadial-4845c107e1136eb4.swf",
+      "sha256": "4845c107e1136eb45d77ca4d38f61db60ce6ec695ad62ef6be4caeebd39203c0",
+      "bytes": 154610,
+      "minimumSDK": 36,
+      "wffVersion": 4,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/DataDial/datadial-debdaebc2217addf-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "phosphor",
+      "name": "Phosphor",
+      "author": "xellio",
+      "summary": "Ретро-терминал с эффектом свечения и цветовыми темами.",
+      "category": "Ретро",
+      "styles": [
+        "Ретро",
+        "Цифровые",
+        "Технические"
+      ],
+      "sourceURL": "https://github.com/xellio/phosphor",
+      "sourceRevision": "295b2e345d78a78bcecf37d3356fee9b6f1ee77d",
+      "updatedAt": "2026-10-02T14:28:03Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Phosphor/phosphor-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Phosphor/phosphor-90edf16e06e788a2.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Phosphor/phosphor-90edf16e06e788a2.swf",
+      "sha256": "90edf16e06e788a2049321655285da1d4d831e48771d476457e98a764517b97a",
+      "bytes": 292389,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Phosphor/phosphor-2e75e57bdebaa16f-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -1019,7 +1171,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2001/studio_capsule_01-ba3b59dd48fb-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2001/studio_capsule_01-af5f414b9a06376c-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1049,7 +1201,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2002/studio_capsule_02-3e184d9c4683-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2002/studio_capsule_02-fdb84cf5f7de00eb-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1079,7 +1231,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2003/studio_capsule_03-fbdea8d3d5d4-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2003/studio_capsule_03-c2f7df9c399c53b1-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1109,7 +1261,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2004/studio_capsule_04-2d03b1caeb3a-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2004/studio_capsule_04-16d2b1cc3cc59674-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1139,7 +1291,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2005/studio_capsule_05-acfb157266a8-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2005/studio_capsule_05-99cbed90d7910cc0-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1169,7 +1321,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2006/studio_capsule_06-a1d1e204d4a6-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2006/studio_capsule_06-a84efc0b088411ed-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1199,7 +1351,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2007/studio_capsule_07-cd2c1e17397e-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2007/studio_capsule_07-0b3a7e3334f70136-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1229,7 +1381,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2008/studio_capsule_08-6d2ecab5a20b-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2008/studio_capsule_08-872714105437d73b-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1259,7 +1411,7 @@
           "bytes": 25626,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2009/studio_capsule_09-69fa83f00b57-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2009/studio_capsule_09-ddc13831668b2866-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1289,7 +1441,7 @@
           "bytes": 25626,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2010/studio_capsule_10-658d69bc8985-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2010/studio_capsule_10-2193cc5184d99213-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1319,7 +1471,7 @@
           "bytes": 25626,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2011/studio_capsule_11-3877901fbfff-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2011/studio_capsule_11-c362aba2b715e129-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1349,7 +1501,7 @@
           "bytes": 25626,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2012/studio_capsule_12-dfe91bc37b91-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2012/studio_capsule_12-39b4d7138161aad3-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1379,7 +1531,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2013/studio_capsule_13-5576385376c0-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2013/studio_capsule_13-292cbd2042f9565c-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1409,7 +1561,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2014/studio_capsule_14-3d620f86eacb-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2014/studio_capsule_14-838b13deedea7855-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1439,7 +1591,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2015/studio_capsule_15-9bd2cf107426-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2015/studio_capsule_15-6ec440c888a91d23-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1469,7 +1621,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2016/studio_capsule_16-3f55f9c75898-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Capsule%2016/studio_capsule_16-7a40d9ed723a72dd-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1511,7 +1663,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2001/studio_horizon_01-ae7f906311f6-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2001/studio_horizon_01-26e11ef7c65f1e95-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1541,7 +1693,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2002/studio_horizon_02-f347b8bcc213-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2002/studio_horizon_02-22944b036c05c582-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1571,7 +1723,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2003/studio_horizon_03-00581eaa3fb1-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2003/studio_horizon_03-9ef1119e3554a519-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1601,7 +1753,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2004/studio_horizon_04-b750b6902629-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2004/studio_horizon_04-2f3c643cc52f0a32-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1631,7 +1783,7 @@
           "bytes": 25626,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2005/studio_horizon_05-4431b8cc361b-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2005/studio_horizon_05-a5865b2cd2a3e23c-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1661,7 +1813,7 @@
           "bytes": 25626,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2006/studio_horizon_06-a6036ba3753a-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2006/studio_horizon_06-c9b1aa95c450e6ce-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1691,7 +1843,7 @@
           "bytes": 25626,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2007/studio_horizon_07-b5637f2dc9f1-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2007/studio_horizon_07-79194256c69314f8-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1721,7 +1873,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2008/studio_horizon_08-10264910f958-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2008/studio_horizon_08-993498fe72642164-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1751,7 +1903,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2009/studio_horizon_09-ed56365b0af9-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2009/studio_horizon_09-b4246828e02ccafa-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1781,7 +1933,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2010/studio_horizon_10-6f6ecf799f90-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2010/studio_horizon_10-52e02dd23a9ed2cd-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1811,7 +1963,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2011/studio_horizon_11-dc116b9349d9-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2011/studio_horizon_11-0c074ecae05b898a-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1841,7 +1993,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2012/studio_horizon_12-8ae1e0659183-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2012/studio_horizon_12-bb5fc23a229e1f03-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1871,7 +2023,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2013/studio_horizon_13-00df69a4402a-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2013/studio_horizon_13-aa1e1d01e88c0f00-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1901,7 +2053,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2014/studio_horizon_14-667cbe3213a6-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2014/studio_horizon_14-4b34b7ec8b12762d-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1931,7 +2083,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2015/studio_horizon_15-62c7de4b8527-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2015/studio_horizon_15-1174e33e7b0ff914-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -1961,7 +2113,7 @@
           "bytes": 21530,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2016/studio_horizon_16-6a5bcbb32625-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Horizon%2016/studio_horizon_16-8c514110a051e07e-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2003,7 +2155,7 @@
           "bytes": 25624,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2001/studio_offset_01-ef7692af90c1-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2001/studio_offset_01-d8b946d6059a294a-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2033,7 +2185,7 @@
           "bytes": 25624,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2002/studio_offset_02-c79aac065c25-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2002/studio_offset_02-5be2a5908c274169-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2063,7 +2215,7 @@
           "bytes": 25624,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2003/studio_offset_03-25e63a100271-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2003/studio_offset_03-4d12198a629d8b13-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2093,7 +2245,7 @@
           "bytes": 25624,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2004/studio_offset_04-0994a127b132-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2004/studio_offset_04-126e0e9da9407799-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2123,7 +2275,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2005/studio_offset_05-f53374980d25-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2005/studio_offset_05-1b51c99dc9d6d1d3-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2153,7 +2305,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2006/studio_offset_06-c301d3c1be0d-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2006/studio_offset_06-718978346ae3b502-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2183,7 +2335,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2007/studio_offset_07-109a24781cc0-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2007/studio_offset_07-c01e5f1497609592-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2213,7 +2365,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2008/studio_offset_08-61a36c075c12-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2008/studio_offset_08-05498364e596a964-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2243,7 +2395,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2009/studio_offset_09-3ceaae8dac8a-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2009/studio_offset_09-f0ced3b06a2bdbbf-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2273,7 +2425,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2010/studio_offset_10-f5ceb24acdcf-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2010/studio_offset_10-d356756106b48400-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2303,7 +2455,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2011/studio_offset_11-d3b74acc1750-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2011/studio_offset_11-0aeaa714dfbd5c26-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2333,7 +2485,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2012/studio_offset_12-b99ad14b7e3d-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2012/studio_offset_12-9d65697ab945aaac-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2363,7 +2515,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2013/studio_offset_13-fb4a98b09dfe-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2013/studio_offset_13-db1a2cf413543d72-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2393,7 +2545,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2014/studio_offset_14-95e2157da9ca-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2014/studio_offset_14-78dd1ac74930814f-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2423,7 +2575,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2015/studio_offset_15-3cfd04765797-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2015/studio_offset_15-5ac20dd4ba887d81-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2453,7 +2605,7 @@
           "bytes": 21528,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2016/studio_offset_16-0b3a59c9e1b9-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Offset%2016/studio_offset_16-372095b2682e60a5-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2496,7 +2648,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2001/studio_orbit_01-09cd512df3c9-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2001/studio_orbit_01-68c55068f2edc2b6-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2526,7 +2678,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2002/studio_orbit_02-18d47ac7440f-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2002/studio_orbit_02-1868ffba8ecd5457-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2556,7 +2708,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2003/studio_orbit_03-9147145b9705-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2003/studio_orbit_03-119ed77161ca6bfc-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2586,7 +2738,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2004/studio_orbit_04-6a21e9840d09-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2004/studio_orbit_04-c60ef61682f05452-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2616,7 +2768,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2005/studio_orbit_05-466293e4e184-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2005/studio_orbit_05-7624f946a852f7fe-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2646,7 +2798,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2006/studio_orbit_06-14d9917260df-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2006/studio_orbit_06-6ab3c33b6db5562a-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2676,7 +2828,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2007/studio_orbit_07-372f3dae5b9e-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2007/studio_orbit_07-383ee7cc753af575-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2706,7 +2858,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2008/studio_orbit_08-661bc571d40c-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2008/studio_orbit_08-174ce6b70eaedb7e-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2736,7 +2888,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2009/studio_orbit_09-a04af816da36-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2009/studio_orbit_09-674cfad1f9f81d91-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2766,7 +2918,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2010/studio_orbit_10-00ad3ffadb91-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2010/studio_orbit_10-212d96374f4bbb25-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2796,7 +2948,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2011/studio_orbit_11-5a71ed93dfe1-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2011/studio_orbit_11-22d5a01f463c8ccf-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2826,7 +2978,7 @@
           "bytes": 17598,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2012/studio_orbit_12-e54ff14d091b-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2012/studio_orbit_12-bbabf2dba2008e93-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2856,7 +3008,7 @@
           "bytes": 21526,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2013/studio_orbit_13-d1682122de9b-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2013/studio_orbit_13-dc35ced09f350890-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2886,7 +3038,7 @@
           "bytes": 21526,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2014/studio_orbit_14-3bacdf588cca-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2014/studio_orbit_14-52694ef4a4a8c2a0-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2916,7 +3068,7 @@
           "bytes": 21526,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2015/studio_orbit_15-43cbd05cf4b7-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2015/studio_orbit_15-6ecbcbb3ee9442cd-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2946,7 +3098,7 @@
           "bytes": 21526,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2016/studio_orbit_16-3a4e7259ecd9-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orbit%2016/studio_orbit_16-607db981f8336809-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -2984,7 +3136,7 @@
           "bytes": 231105,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Dolomites%20%C2%B7%20WristLab/wristlab_dolomites-ad88f9e4a21d-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Dolomites%20%C2%B7%20WristLab/wristlab_dolomites-875df8df9aa568fe-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -3014,7 +3166,7 @@
           "bytes": 255679,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Milkyway%20%C2%B7%20WristLab/wristlab_milkyway-ad88f9e4a21d-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Milkyway%20%C2%B7%20WristLab/wristlab_milkyway-72345ea875a34a28-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -3044,7 +3196,7 @@
           "bytes": 276153,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Tokyo%20%C2%B7%20WristLab/wristlab_tokyo-ad88f9e4a21d-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Tokyo%20%C2%B7%20WristLab/wristlab_tokyo-69603daa2c0faff8-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -3074,7 +3226,7 @@
           "bytes": 173753,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Earth%20%C2%B7%20WristLab/wristlab_earth-ad88f9e4a21d-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Earth%20%C2%B7%20WristLab/wristlab_earth-b814dc34b34dfd54-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -3104,7 +3256,7 @@
           "bytes": 513864,
           "minimumSDK": 34,
           "wffVersion": 2,
-          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Alpine%20%C2%B7%20WristLab/wristlab_alpine-ad88f9e4a21d-source.zip",
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Alpine%20%C2%B7%20WristLab/wristlab_alpine-8391dc41ec531020-source.zip",
           "brands": [
             "Galaxy Watch",
             "Pixel Watch",
@@ -3187,6 +3339,78 @@
       ],
       "styles": [
         "Минимализм",
+        "Цифровые"
+      ]
+    },
+    {
+      "id": "number_systems",
+      "name": "Числовые системы",
+      "author": "pburney",
+      "category": "Необычные",
+      "items": [
+        {
+          "id": "binary_bcd",
+          "name": "Binary BCD",
+          "author": "pburney",
+          "summary": "Время двоичными индикаторами BCD.",
+          "category": "Необычные",
+          "styles": [
+            "Необычные",
+            "Цифровые"
+          ],
+          "sourceURL": "https://github.com/pburney/BinaryWatchFace",
+          "sourceRevision": "57eb85a635ec43ee099500eff505168a89de134f",
+          "updatedAt": "2026-09-23T01:00:10Z",
+          "license": "Apache-2.0",
+          "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Binary%20BCD/binary_bcd-LICENSE.txt",
+          "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Binary%20BCD/binary_bcd-6cce8b92cff91c94.png",
+          "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Binary%20BCD/binary_bcd-6cce8b92cff91c94.swf",
+          "sha256": "6cce8b92cff91c941fb431e802f63ee233937b7eb92c427cc0f9b4a6bf33ad78",
+          "bytes": 21511,
+          "minimumSDK": 36,
+          "wffVersion": 4,
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Binary%20BCD/binary_bcd-8aa6de13b46aff0d-source.zip",
+          "brands": [
+            "Galaxy Watch",
+            "Pixel Watch",
+            "Xiaomi Watch",
+            "Другие Wear OS"
+          ],
+          "displayShape": "round"
+        },
+        {
+          "id": "quinary",
+          "name": "Quinary",
+          "author": "pburney",
+          "summary": "Время в пятеричной системе счисления.",
+          "category": "Необычные",
+          "styles": [
+            "Необычные",
+            "Цифровые"
+          ],
+          "sourceURL": "https://github.com/pburney/QuinaryWatchFace",
+          "sourceRevision": "c86815c811e83b029a4aa5e38523d881106256a8",
+          "updatedAt": "2026-09-23T00:59:17Z",
+          "license": "Apache-2.0",
+          "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Quinary/quinary-LICENSE.txt",
+          "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Quinary/quinary-30df295e1cf02167.png",
+          "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Quinary/quinary-30df295e1cf02167.swf",
+          "sha256": "30df295e1cf02167b5b1f7c42f95377ff2c64cc77d40782afa26c50a3746dc68",
+          "bytes": 21505,
+          "minimumSDK": 36,
+          "wffVersion": 4,
+          "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Quinary/quinary-d0b68300109c4298-source.zip",
+          "brands": [
+            "Galaxy Watch",
+            "Pixel Watch",
+            "Xiaomi Watch",
+            "Другие Wear OS"
+          ],
+          "displayShape": "round"
+        }
+      ],
+      "styles": [
+        "Необычные",
         "Цифровые"
       ]
     }
