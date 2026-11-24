@@ -510,9 +510,9 @@
     "branch": "main",
     "module": "faces/alpine",
     "license": "Apache-2.0",
-    "category": "Цифровые",
+    "category": "Иллюстрации",
     "styles": [
-      "Классические",
+      "Иллюстрации",
       "Цифровые"
     ],
     "summary": "Цифровые часы на фоне гор, шаги и заряд.",
@@ -665,9 +665,9 @@
     "branch": "main",
     "module": "faces/orbit",
     "license": "Apache-2.0",
-    "category": "Космос",
+    "category": "Цифровые",
     "styles": [
-      "Космос",
+      "Минимализм",
       "Цифровые"
     ],
     "summary": "Цифровое время в орбитальном кольце, шаги и заряд.",
@@ -709,9 +709,9 @@
     "branch": "main",
     "module": "faces/tokyo",
     "license": "Apache-2.0",
-    "category": "Цифровые",
+    "category": "Иллюстрации",
     "styles": [
-      "Необычные",
+      "Иллюстрации",
       "Цифровые"
     ],
     "summary": "Японская городская эстетика и цифровая композиция.",
@@ -740,6 +740,64 @@
       "Информационные"
     ],
     "summary": "Суточный солнечный цикл, положение Солнца и пять фаз сумерек. Требует WFF 4.",
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "binary",
+    "name": "Binary",
+    "author": "j-256",
+    "repository": "j-256/binary-watch-face",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "category": "Необычные",
+    "styles": [
+      "Необычные",
+      "Цифровые",
+      "Минимализм"
+    ],
+    "license": "AGPL-3.0",
+    "summary": "Время в двоичном представлении, настраиваемые индикаторы и спокойный AOD.",
+    "sparse": true,
+    "publishSources": true,
+    "enabled": false,
+    "exclusionReason": "WFF 5; requires a newer platform than the supported Wear OS 6 / Android 16"
+  },
+  {
+    "id": "wristling",
+    "name": "Wristling",
+    "author": "Mikalio",
+    "repository": "Mikalio/wristling",
+    "branch": "main",
+    "module": "watch/face/src/main",
+    "category": "Иллюстрации",
+    "styles": [
+      "Иллюстрации",
+      "Цифровые"
+    ],
+    "license": "MIT",
+    "summary": "Пиксельный питомец на запястье. Отображение состояния Claude Code требует отдельного приложения автора.",
+    "sparse": true,
+    "publishSources": true
+  },
+  {
+    "id": "planetary_orbit",
+    "name": "Planetary Orbit",
+    "author": "Sergio De Lucio",
+    "repository": "Sergio99778/orbit-watchface",
+    "branch": "main",
+    "module": "src",
+    "category": "Космос",
+    "styles": [
+      "Космос",
+      "Цифровые"
+    ],
+    "license": "CC-BY-NC-SA-4.0",
+    "noticePaths": [
+      "LICENSES/Apache-2.0-MaterialSymbols.txt",
+      "LICENSES/OFL-GoogleSansFlex.txt"
+    ],
+    "summary": "Планетарная композиция времени. Автор разрешает некоммерческое распространение с указанием авторства и той же лицензией.",
     "sparse": true,
     "publishSources": true
   }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T21:04:12.772192+00:00",
+  "updatedAt": "2026-11-24T21:18:18.417447+00:00",
   "items": [
     {
       "id": "avionics_radar",
@@ -778,9 +778,9 @@
       "name": "Alpine · WristLab",
       "author": "vishwateja2345 · WristLab",
       "summary": "Цифровые часы на фоне гор, шаги и заряд.",
-      "category": "Цифровые",
+      "category": "Иллюстрации",
       "styles": [
-        "Классические",
+        "Иллюстрации",
         "Цифровые"
       ],
       "sourceURL": "https://github.com/vishwateja2345/WristLab",
@@ -989,9 +989,9 @@
       "name": "Orbit · WristLab",
       "author": "vishwateja2345 · WristLab",
       "summary": "Цифровое время в орбитальном кольце, шаги и заряд.",
-      "category": "Космос",
+      "category": "Цифровые",
       "styles": [
-        "Космос",
+        "Минимализм",
         "Цифровые"
       ],
       "sourceURL": "https://github.com/vishwateja2345/WristLab",
@@ -1049,9 +1049,9 @@
       "name": "Tokyo · WristLab",
       "author": "vishwateja2345 · WristLab",
       "summary": "Японская городская эстетика и цифровая композиция.",
-      "category": "Цифровые",
+      "category": "Иллюстрации",
       "styles": [
-        "Необычные",
+        "Иллюстрации",
         "Цифровые"
       ],
       "sourceURL": "https://github.com/vishwateja2345/WristLab",
@@ -1126,6 +1126,66 @@
       "minimumSDK": 36,
       "wffVersion": 4,
       "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Solar%20Path/solar_path-16d37a8aa9732b96-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "wristling",
+      "name": "Wristling",
+      "author": "Mikalio",
+      "summary": "Пиксельный питомец на запястье. Отображение состояния Claude Code требует отдельного приложения автора.",
+      "category": "Иллюстрации",
+      "styles": [
+        "Иллюстрации",
+        "Цифровые"
+      ],
+      "sourceURL": "https://github.com/Mikalio/wristling",
+      "sourceRevision": "b8cd78516507971c1723278fe180eda05b632442",
+      "updatedAt": "2026-11-07T12:55:12Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Wristling/wristling-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Wristling/wristling-65c533d3866be261.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Wristling/wristling-65c533d3866be261.swf",
+      "sha256": "65c533d3866be261cd191c81f6060c3d1faecc6208a7ed2930992ba80c80fc8b",
+      "bytes": 195468,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Wristling/wristling-a3223341e6408f99-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "planetary_orbit",
+      "name": "Planetary Orbit",
+      "author": "Sergio De Lucio",
+      "summary": "Планетарная композиция времени. Автор разрешает некоммерческое распространение с указанием авторства и той же лицензией.",
+      "category": "Космос",
+      "styles": [
+        "Космос",
+        "Цифровые"
+      ],
+      "sourceURL": "https://github.com/Sergio99778/orbit-watchface",
+      "sourceRevision": "d7b9c75c0315f63a40690d0eee017c84d533e090",
+      "updatedAt": "2026-09-28T23:04:06Z",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Planetary%20Orbit/planetary_orbit-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Planetary%20Orbit/planetary_orbit-33a39c2c2f800080.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Planetary%20Orbit/planetary_orbit-33a39c2c2f800080.swf",
+      "sha256": "33a39c2c2f800080b2c78ef3c6bf339398acd3ebcc383de927e63a413b661d6c",
+      "bytes": 165510,
+      "minimumSDK": 36,
+      "wffVersion": 4,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Planetary%20Orbit/planetary_orbit-34af13d8d1d23af3-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",

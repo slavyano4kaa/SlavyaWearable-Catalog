@@ -50,6 +50,8 @@ Watch Faces/ contains brand folders with the same portable WFF resources. Brand 
 - **Tokyo · WristLab** — vishwateja2345 · WristLab; Apache-2.0; [source](https://github.com/vishwateja2345/WristLab)
 - **Forest Digital** — ryokkon624; MIT; [source](https://github.com/ryokkon624/forestdigital)
 - **Solar Path** — amoledwatchfaces; GPL-3.0; [source](https://github.com/amoledwatchfaces/Solar-Path-Watch-Face-Wear-OS)
+- **Wristling** — Mikalio; MIT; [source](https://github.com/Mikalio/wristling)
+- **Planetary Orbit** — Sergio De Lucio; CC-BY-NC-SA-4.0; [source](https://github.com/Sergio99778/orbit-watchface)
 
 ## Variant collections
 
