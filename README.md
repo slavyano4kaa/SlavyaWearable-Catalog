@@ -29,20 +29,15 @@ Watch Faces/ contains brand folders with the same portable WFF resources. Brand 
 - **Rosé Pine** — Shaun Lastra; MIT; [source](https://github.com/slastra/rosepine-watchface)
 - **Azimut Sakura** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
 - **Utility** — SamakaCD; MIT; [source](https://github.com/SamakaCD/utility-wff)
+- **Radar** — Northstar Labs; GPL-3.0; [source](https://github.com/northstar-labs-ui/avionics-for-wear-os)
+- **Radiocompass** — Northstar Labs; GPL-3.0; [source](https://github.com/northstar-labs-ui/avionics-for-wear-os)
+- **Pixel Dot Matrix** — WingsDavis; MIT; [source](https://github.com/WingsDavis/pixel-dot-matrix)
 
 ## Variant collections
 
 Variants are grouped and are not counted as independent designs.
 
-- **Axis** — 16 variations; SlavyaWearable Studio
-- **Beacon** — 16 variations; SlavyaWearable Studio
 - **Capsule** — 16 variations; SlavyaWearable Studio
-- **Focus** — 16 variations; SlavyaWearable Studio
-- **Frame** — 16 variations; SlavyaWearable Studio
 - **Horizon** — 16 variations; SlavyaWearable Studio
-- **Mono** — 16 variations; SlavyaWearable Studio
 - **Offset** — 16 variations; SlavyaWearable Studio
 - **Orbit** — 16 variations; SlavyaWearable Studio
-- **Split** — 16 variations; SlavyaWearable Studio
-- **Stack** — 16 variations; SlavyaWearable Studio
-- **Vector** — 16 variations; SlavyaWearable Studio

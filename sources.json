@@ -30,7 +30,11 @@
     "module": "watchface/src/main",
     "category": "Цифровые",
     "license": "Apache-2.0",
-    "summary": "Крупное время, кольцо заряда и настраиваемые показатели."
+    "summary": "Крупное время, кольцо заряда и настраиваемые показатели.",
+    "styles": [
+      "Цифровые",
+      "Информационные"
+    ]
   },
   {
     "id": "classic",
@@ -42,7 +46,11 @@
     "category": "Аналоговые",
     "license": "Apache-2.0",
     "sparse": true,
-    "summary": "Стрелочный циферблат с системным рендерингом Wear OS."
+    "summary": "Стрелочный циферблат с системным рендерингом Wear OS.",
+    "styles": [
+      "Минимализм",
+      "Аналоговые"
+    ]
   },
   {
     "id": "orrery",
@@ -104,7 +112,11 @@
     "license": "MIT",
     "releaseAsset": "UtilityWFF-.*-device-font\\.apk",
     "preview": "assets/preview.png",
-    "summary": "Крупные часы, дата, три круглых показателя и отдельная длинная строка события календаря. Цвета и компоновка меняются в редакторе часов. Используется системный шрифт."
+    "summary": "Крупные часы, дата, три круглых показателя и отдельная длинная строка события календаря. Цвета и компоновка меняются в редакторе часов. Используется системный шрифт.",
+    "styles": [
+      "Минимализм",
+      "Аналоговые"
+    ]
   },
   {
     "id": "compiletime",
@@ -214,5 +226,177 @@
       "vendor/WFF-LICENSE.txt"
     ],
     "summary": "Асимметричная композиция: стрелочный диск слева сверху, показатели справа. Стрелки не перекрывают текст; оформление меняется в редакторе часов."
+  },
+  {
+    "id": "avionics_altitude",
+    "name": "Altitude",
+    "author": "Northstar Labs",
+    "repository": "northstar-labs-ui/avionics-for-wear-os",
+    "branch": "main",
+    "module": "Altitude/watchface/src/main",
+    "license": "GPL-3.0",
+    "category": "Авиационные",
+    "styles": [
+      "Авиационные",
+      "Аналоговые",
+      "Технические"
+    ],
+    "summary": "Высотомер: авиационная шкала и приборные стрелки.",
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true
+  },
+  {
+    "id": "avionics_artificial_horizon",
+    "name": "Artificial Horizon",
+    "author": "Northstar Labs",
+    "repository": "northstar-labs-ui/avionics-for-wear-os",
+    "branch": "main",
+    "module": "ArtificalHorizon/watchface/src/main",
+    "license": "GPL-3.0",
+    "category": "Авиационные",
+    "styles": [
+      "Авиационные",
+      "Аналоговые",
+      "Технические"
+    ],
+    "summary": "Авиагоризонт с подвижной шкалой времени.",
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true
+  },
+  {
+    "id": "avionics_gyro",
+    "name": "Gyro",
+    "author": "Northstar Labs",
+    "repository": "northstar-labs-ui/avionics-for-wear-os",
+    "branch": "main",
+    "module": "Gyro/watchface/src/main",
+    "license": "GPL-3.0",
+    "category": "Авиационные",
+    "styles": [
+      "Авиационные",
+      "Аналоговые",
+      "Технические"
+    ],
+    "summary": "Гироскопический авиационный прибор на запястье.",
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true
+  },
+  {
+    "id": "avionics_helicopter",
+    "name": "Helicopter",
+    "author": "Northstar Labs",
+    "repository": "northstar-labs-ui/avionics-for-wear-os",
+    "branch": "main",
+    "module": "Helicopter/watchface/src/main",
+    "license": "GPL-3.0",
+    "category": "Авиационные",
+    "styles": [
+      "Авиационные",
+      "Аналоговые",
+      "Технические"
+    ],
+    "summary": "Приборный циферблат из авиационной коллекции.",
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true
+  },
+  {
+    "id": "avionics_radar",
+    "name": "Radar",
+    "author": "Northstar Labs",
+    "repository": "northstar-labs-ui/avionics-for-wear-os",
+    "branch": "main",
+    "module": "Radar/watchface/src/main",
+    "license": "GPL-3.0",
+    "category": "Авиационные",
+    "styles": [
+      "Авиационные",
+      "Аналоговые",
+      "Технические"
+    ],
+    "summary": "Радарный экран вместо обычного часового циферблата.",
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true
+  },
+  {
+    "id": "avionics_radiocompass",
+    "name": "Radiocompass",
+    "author": "Northstar Labs",
+    "repository": "northstar-labs-ui/avionics-for-wear-os",
+    "branch": "main",
+    "module": "Radiocompass/watchface/src/main",
+    "license": "GPL-3.0",
+    "category": "Авиационные",
+    "styles": [
+      "Авиационные",
+      "Аналоговые",
+      "Технические"
+    ],
+    "summary": "Радиокомпас с приборной шкалой и стрелками.",
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true
+  },
+  {
+    "id": "avionics_turn_coordinator",
+    "name": "Turn Coordinator",
+    "author": "Northstar Labs",
+    "repository": "northstar-labs-ui/avionics-for-wear-os",
+    "branch": "main",
+    "module": "TurnCoordinator/watchface/src/main",
+    "license": "GPL-3.0",
+    "category": "Авиационные",
+    "styles": [
+      "Авиационные",
+      "Аналоговые",
+      "Технические"
+    ],
+    "summary": "Авиационный указатель поворота в формате часов.",
+    "sparse": true,
+    "publishSources": true,
+    "rasterizeVectors": true
+  },
+  {
+    "id": "forest_digital",
+    "name": "Forest Digital",
+    "author": "ryokkon624",
+    "repository": "ryokkon624/forestdigital",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Информационные",
+    "styles": [
+      "Цифровые",
+      "Информационные"
+    ],
+    "summary": "Самостоятельный цифровой дизайн с кольцевыми индикаторами и несколькими информерами.",
+    "sparse": true,
+    "noticePaths": [
+      "LICENSES/NOTICE.md",
+      "LICENSES/OFL-JetBrainsMono.txt",
+      "LICENSES/OFL-Sora.txt"
+    ],
+    "publishSources": true
+  },
+  {
+    "id": "pixel_dot_matrix",
+    "name": "Pixel Dot Matrix",
+    "author": "WingsDavis",
+    "repository": "WingsDavis/pixel-dot-matrix",
+    "branch": "main",
+    "module": "watchface/src/main",
+    "license": "MIT",
+    "category": "Ретро",
+    "styles": [
+      "Цифровые",
+      "Ретро"
+    ],
+    "summary": "Матричная типографика и ретро-дисплей. Функции Pomodoro требуют отдельного приложения автора.",
+    "sparse": true,
+    "publishSources": true
   }
 ]
