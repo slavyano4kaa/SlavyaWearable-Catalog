@@ -12,12 +12,20 @@
       "sourceRevision": "9be77631099712b1fc3cbbf1926a18aeb06ebc87",
       "updatedAt": "2026-07-20T07:56:07Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/concentric-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/concentric-f535ee4e58e49e25.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/concentric-f535ee4e58e49e25.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Concentric/concentric-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Concentric/concentric-f535ee4e58e49e25.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Concentric/concentric-f535ee4e58e49e25.swf",
       "sha256": "f535ee4e58e49e25a69ff8d5f7eeb99c21ea5fc1666ee2a03d3b615baf032b99",
       "bytes": 832588,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "data9",
@@ -29,12 +37,20 @@
       "sourceRevision": "c31e0013fe852076edb61d5806dffd748d6e3c36",
       "updatedAt": "2026-06-05T20:32:37Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/data9-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/data9-888daaa5b360c886.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/data9-888daaa5b360c886.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Data%209/data9-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Data%209/data9-888daaa5b360c886.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Data%209/data9-888daaa5b360c886.swf",
       "sha256": "888daaa5b360c886b8d94989e69b97eca3e86d2d50882bd94488283670d8ac6e",
       "bytes": 54409,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "meridian",
@@ -46,12 +62,20 @@
       "sourceRevision": "f74cfd7f0d4f8a4dc42e69c00c57a65c683e22db",
       "updatedAt": "2026-07-17T00:48:33Z",
       "license": "Apache-2.0",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/meridian-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/meridian-bf61ad6b4130fb30.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/meridian-bf61ad6b4130fb30.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian/meridian-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian/meridian-bf61ad6b4130fb30.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian/meridian-bf61ad6b4130fb30.swf",
       "sha256": "bf61ad6b4130fb3045cb67548a2dc35787f99843b783d0e6abe3832357e78bcb",
       "bytes": 107749,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "classic",
@@ -63,12 +87,20 @@
       "sourceRevision": "9a38e4453b61b50a287347339c06624b60c41e47",
       "updatedAt": "2026-11-18T11:47:35Z",
       "license": "Apache-2.0",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/classic-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/classic-be0f77c6ff5340fb.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/classic-be0f77c6ff5340fb.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9/classic-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9/classic-be0f77c6ff5340fb.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9/classic-be0f77c6ff5340fb.swf",
       "sha256": "be0f77c6ff5340fb0bebf86a38b6c9a77139d3ad291b802562772288e2bf0099",
       "bytes": 42134,
-      "minimumSDK": 33
+      "minimumSDK": 33,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 1
     },
     {
       "id": "orrery",
@@ -80,12 +112,20 @@
       "sourceRevision": "af1c4d89b068d15684c2968c654fa4fc7ac2c515",
       "updatedAt": "2026-07-18T02:13:03Z",
       "license": "Apache-2.0",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/orrery-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/orrery-1abaf250aa2ef841.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/orrery-1abaf250aa2ef841.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orrery/orrery-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orrery/orrery-1abaf250aa2ef841.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Orrery/orrery-1abaf250aa2ef841.swf",
       "sha256": "1abaf250aa2ef8412f353b5042f88bb1f68102b946c6e2bdba242235ee350da5",
       "bytes": 153365,
-      "minimumSDK": 35
+      "minimumSDK": 35,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 3
     },
     {
       "id": "complications",
@@ -97,12 +137,20 @@
       "sourceRevision": "9a38e4453b61b50a287347339c06624b60c41e47",
       "updatedAt": "2026-11-18T11:47:35Z",
       "license": "Apache-2.0",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/complications-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/complications-b411c33e0c83cf49.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/complications-b411c33e0c83cf49.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/complications-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/complications-b411c33e0c83cf49.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/complications-b411c33e0c83cf49.swf",
       "sha256": "b411c33e0c83cf49adabeacfac66fd673c9789ba70ca44daeb3d138ea92966bb",
       "bytes": 226249,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "flavors",
@@ -114,12 +162,20 @@
       "sourceRevision": "9a38e4453b61b50a287347339c06624b60c41e47",
       "updatedAt": "2026-11-18T11:47:35Z",
       "license": "Apache-2.0",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/flavors-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/flavors-8b16121257f8175e.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/flavors-8b16121257f8175e.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9F%D0%B0%D0%BB%D0%B8%D1%82%D1%80%D0%B0/flavors-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9F%D0%B0%D0%BB%D0%B8%D1%82%D1%80%D0%B0/flavors-8b16121257f8175e.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9F%D0%B0%D0%BB%D0%B8%D1%82%D1%80%D0%B0/flavors-8b16121257f8175e.swf",
       "sha256": "8b16121257f8175e21a7dc1f61c3135bbab7f003db57f68af2ad41fbfcf22739",
       "bytes": 71245,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "utility",
@@ -131,13 +187,21 @@
       "sourceRevision": "cabaa5bfe744465d2f7f2d68da3c7369f98adfef",
       "updatedAt": "2026-08-06T14:48:33Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/utility-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/utility-fd6cdd4a62e3bd70.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/utility-fd6cdd4a62e3bd70.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Utility/utility-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Utility/utility-fd6cdd4a62e3bd70.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Utility/utility-fd6cdd4a62e3bd70.swf",
       "sha256": "fd6cdd4a62e3bd70e23e7ba39a4611bfc76417dabc343a0d7e5fed12d80ec00b",
       "bytes": 33758,
       "minimumSDK": 33,
-      "sourceRelease": "v4.0"
+      "sourceRelease": "v4.0",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 1
     },
     {
       "id": "compiletime",
@@ -149,13 +213,21 @@
       "sourceRevision": "e401f623e5fcba1af15490655067cdaf0f0a683b",
       "updatedAt": "2026-10-22T20:17:55Z",
       "license": "Apache-2.0",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/compiletime-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/compiletime-a313e7dae4dff399.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/compiletime-a313e7dae4dff399.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Compile%20Time/compiletime-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Compile%20Time/compiletime-a313e7dae4dff399.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Compile%20Time/compiletime-a313e7dae4dff399.swf",
       "sha256": "a313e7dae4dff399265d9b7e30bf6f68a0c0f5dbdaa850b931aecb13cd7101cd",
       "bytes": 439671,
       "minimumSDK": 33,
-      "sourceRelease": "v1.0.0"
+      "sourceRelease": "v1.0.0",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 1
     },
     {
       "id": "minimal",
@@ -167,12 +239,20 @@
       "sourceRevision": "2",
       "updatedAt": "2026-11-24T00:00:00Z",
       "license": "Personal collection",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/minimal-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/minimal-947fbb676b48c465.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/minimal-947fbb676b48c465.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/minimal-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/minimal-947fbb676b48c465.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/minimal-947fbb676b48c465.swf",
       "sha256": "947fbb676b48c465632f598d1c07b74e47148cbe6a993adff9b4649b73ed88d0",
       "bytes": 21297,
-      "minimumSDK": 33
+      "minimumSDK": 33,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 1
     },
     {
       "id": "blue",
@@ -184,12 +264,20 @@
       "sourceRevision": "2",
       "updatedAt": "2026-11-24T00:00:00Z",
       "license": "Personal collection",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/blue-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/blue-ebe3566e1a96475a.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/blue-ebe3566e1a96475a.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%A1%D0%B8%D0%BD%D0%B8%D0%B9/blue-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%A1%D0%B8%D0%BD%D0%B8%D0%B9/blue-ebe3566e1a96475a.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/%D0%A1%D0%B8%D0%BD%D0%B8%D0%B9/blue-ebe3566e1a96475a.swf",
       "sha256": "ebe3566e1a96475a0f1a4406198d58c071c11734c83f268f3a2d4f792d33dd33",
       "bytes": 21282,
-      "minimumSDK": 33
+      "minimumSDK": 33,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 1
     },
     {
       "id": "rosepine",
@@ -201,12 +289,20 @@
       "sourceRevision": "cc30c44ff5c3cf45a44772316c887d52909c3f1d",
       "updatedAt": "2026-11-05T00:50:40Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/rosepine-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/rosepine-834410c6fddc0aba.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/rosepine-834410c6fddc0aba.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Ros%C3%A9%20Pine/rosepine-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Ros%C3%A9%20Pine/rosepine-834410c6fddc0aba.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Ros%C3%A9%20Pine/rosepine-834410c6fddc0aba.swf",
       "sha256": "834410c6fddc0aba2144645e1e5b7b5c7479a87f36f400f9f2a22411608ec9d4",
       "bytes": 115937,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "azimut03",
@@ -218,12 +314,20 @@
       "sourceRevision": "581d770ed62a63088eeeb43cf6578495c7ccfd09",
       "updatedAt": "2026-09-23T21:40:01Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/azimut03-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/azimut03-27c303f784b03234.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/azimut03-27c303f784b03234.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Azimut%2003/azimut03-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Azimut%2003/azimut03-27c303f784b03234.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Azimut%2003/azimut03-27c303f784b03234.swf",
       "sha256": "27c303f784b03234a9672ca919ccaf55c6098831d2557ea3545c5f9f19b53717",
       "bytes": 334704,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "sakura",
@@ -235,12 +339,20 @@
       "sourceRevision": "581d770ed62a63088eeeb43cf6578495c7ccfd09",
       "updatedAt": "2026-09-23T21:40:01Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/sakura-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/sakura-959a2b91a14e6e1f.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/sakura-959a2b91a14e6e1f.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Azimut%20Sakura/sakura-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Azimut%20Sakura/sakura-959a2b91a14e6e1f.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Azimut%20Sakura/sakura-959a2b91a14e6e1f.swf",
       "sha256": "959a2b91a14e6e1f13d7313185df4a7f7fd7349e1f4b02daa3b1a5ca42d1923d",
       "bytes": 316752,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "kerteriz01",
@@ -252,12 +364,20 @@
       "sourceRevision": "581d770ed62a63088eeeb43cf6578495c7ccfd09",
       "updatedAt": "2026-09-23T21:40:01Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/kerteriz01-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/kerteriz01-ca492e9b66af0a0d.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/kerteriz01-ca492e9b66af0a0d.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%2001/kerteriz01-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%2001/kerteriz01-ca492e9b66af0a0d.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%2001/kerteriz01-ca492e9b66af0a0d.swf",
       "sha256": "ca492e9b66af0a0da7a4685d1535b942c84a7c52a68598149d91be69e78b6229",
       "bytes": 304857,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
     },
     {
       "id": "kerteriz02",
@@ -269,12 +389,45 @@
       "sourceRevision": "581d770ed62a63088eeeb43cf6578495c7ccfd09",
       "updatedAt": "2026-09-23T21:40:01Z",
       "license": "MIT",
-      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/kerteriz02-LICENSE.txt",
-      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/kerteriz02-55b626ac81a39353.png",
-      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/kerteriz02-55b626ac81a39353.swf",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%2002/kerteriz02-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%2002/kerteriz02-55b626ac81a39353.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Meridian%2002/kerteriz02-55b626ac81a39353.swf",
       "sha256": "55b626ac81a39353fa86459821e98ea168118d50423907c7b2936ee3857e1b12",
       "bytes": 288644,
-      "minimumSDK": 34
+      "minimumSDK": 34,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 2
+    },
+    {
+      "id": "gminimalism",
+      "name": "GMinimalism",
+      "author": "SlavyaWearable",
+      "summary": "Личный циферблат SlavyaWearable: чёрный фон, крупные 12/3/6/9, стрелки, заряд и пульс. Оригинальная графика и Google Sans сохранены; из шрифта удалены неиспользуемые символы.",
+      "category": "Аналоговые",
+      "sourceURL": "https://github.com/slavyano4kaa/SlavyaWearable-Catalog",
+      "sourceRevision": "41b56aa1ac61e2f71fa6917bc0fad43bc5a6f3a3a84ed64b6e6b77806c79a486",
+      "updatedAt": "2026-11-24T00:00:00Z",
+      "license": "Personal use · font OFL-1.1",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/GMinimalism/gminimalism-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/GMinimalism/gminimalism-cdc08fa9691a9bdf.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/GMinimalism/gminimalism-cdc08fa9691a9bdf.swf",
+      "sha256": "cdc08fa9691a9bdf0522f497fdc47e7867c61bf9f8695d82101faf9a8758b1dd",
+      "bytes": 243637,
+      "minimumSDK": 33,
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round",
+      "wffVersion": 1
     }
   ]
 }

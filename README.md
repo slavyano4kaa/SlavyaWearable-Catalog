@@ -6,6 +6,10 @@ Contains installable bundles, original previews, authors, pinned upstream revisi
 
 New catalog versions are picked up by the app without reinstalling it. Each prepared APK passes the official Google Watch Face Push validator. Upstream designs retain their own licenses, included alongside the bundles and inside each APK. Adaptations change the package namespace and manifest for Watch Face Push.
 
+## Compatibility
+
+Watch Faces/ contains brand folders with the same portable WFF resources. Brand folders do not imply exclusive compatibility. Installation through Watch Face Push requires Wear OS 6 (Android 16), sufficient WFF version, and the specified display shape. Galaxy Watch FE is physically tested; other devices are classified by platform requirements, not claimed as physically tested. Only Wear OS devices are supported; Xiaomi HyperOS, Huawei GT/Fit, Redmi and Amazfit are not included.
+
 ## Collection
 
 - **Concentric** — Luka Kilic; MIT; [source](https://github.com/lukakilic/concentric-watch-face)
@@ -24,3 +28,4 @@ New catalog versions are picked up by the app without reinstalling it. Each prep
 - **Azimut Sakura** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
 - **Meridian 01** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
 - **Meridian 02** — afsozer · Kerteriz; MIT; [source](https://github.com/afsozer/kerteriz)
+- **GMinimalism** — SlavyaWearable; Personal use · font OFL-1.1; [source](https://github.com/slavyano4kaa/SlavyaWearable-Catalog)
