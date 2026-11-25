@@ -50,6 +50,14 @@ Watch Faces/ contains brand folders with the same portable WFF resources. Brand 
 - **Clear** — fezdk; MIT; [source](https://github.com/fezdk/clear-watchface)
 - **DataDial** — ls6777; MIT; [source](https://github.com/ls6777/wearos-datadial)
 - **Phosphor** — xellio; MIT; [source](https://github.com/xellio/phosphor)
+- **Arcminute** — arfct; MIT; [source](https://github.com/arfct/arcminute-watchface)
+- **Night Dial** — ls6777; MIT; [source](https://github.com/ls6777/NightDial)
+- **Aurora Farm** — Bharathy · ArtTemiiss; MIT; [source](https://github.com/ArtTemiiss/aurora-farm-watchface)
+- **Classic Aurora** — Anupam890 · Chrona; MIT; [source](https://github.com/Anupam890/chroma---watch-faces)
+- **Neon Grid** — alejozd; MIT; [source](https://github.com/alejozd/neon-grid-watchface)
+- **Cozy Days** — wallacer89; MIT; [source](https://github.com/wallacer89/cozy-days-watchface)
+- **Hex Editor** — nitish1306; GPL-3.0; [source](https://github.com/nitish1306/wear-os-hex-editor-watchface)
+- **Earth Day/Night** — henderjj; MIT; [source](https://github.com/henderjj/wear-os-watch-faces)
 
 ## Variant collections
 

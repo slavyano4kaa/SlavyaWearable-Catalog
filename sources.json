@@ -997,8 +997,7 @@
     "noticePaths": [],
     "sparse": false,
     "publishSources": true,
-    "enabled": false,
-    "exclusionReason": "Prepared package exceeds the current 2 MiB BLE transfer limit"
+    "enabled": true
   },
   {
     "id": "cascadia_terminal",
@@ -1022,5 +1021,246 @@
     "rasterizeVectors": true,
     "enabled": false,
     "exclusionReason": "Personal dedication is baked into this design; omitted from the general catalog without altering the author artwork"
+  },
+  {
+    "id": "nightdial",
+    "name": "Night Dial",
+    "repository": "ls6777/NightDial",
+    "module": "watchface/src/main",
+    "author": "ls6777",
+    "category": "Информационные",
+    "styles": [
+      "Информационные",
+      "Необычные"
+    ],
+    "summary": "Часы без стрелок: время отмечено на кольце, вокруг — погода, пульс и настраиваемые показатели. Фактические данные зависят от выбранных источников complications.",
+    "noticePaths": [
+      "tools/fonts/OFL-Oswald.txt",
+      "tools/fonts/OFL.txt"
+    ],
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true
+  },
+  {
+    "id": "neon_grid",
+    "name": "Neon Grid",
+    "repository": "alejozd/neon-grid-watchface",
+    "module": "watchface",
+    "author": "alejozd",
+    "category": "Технические",
+    "styles": [
+      "Технические",
+      "Аналоговые",
+      "Цифровые",
+      "Информационные"
+    ],
+    "summary": "Неоновая приборная панель: стрелки, цифровое время, погода и показатели активности. Три палитры настраиваются в редакторе часов.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true,
+    "normalizeWFF": [
+      "alignmentNames",
+      "literalTemplates"
+    ]
+  },
+  {
+    "id": "solar_24h",
+    "name": "24h Solar",
+    "repository": "Jutqe/24-hour-watch-face-for-Wear-OS",
+    "module": "watchface/src/main",
+    "author": "Jutqe",
+    "category": "Необычные",
+    "styles": [
+      "Необычные",
+      "Аналоговые"
+    ],
+    "summary": "Одна стрелка проходит круг за сутки. Для солнечного фона по местоположению нужен отдельный SolarEngine автора; без него доступен сам 24-часовой циферблат.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true,
+    "normalizeWFF": [
+      "interactiveDefaults",
+      "booleanNames"
+    ],
+    "enabled": false,
+    "exclusionReason": "Upstream WFF contains unresolved schema or configuration errors; not published."
+  },
+  {
+    "id": "arcminute",
+    "name": "Arcminute",
+    "repository": "arfct/arcminute-watchface",
+    "module": "wear/wff/src/main",
+    "author": "arfct",
+    "category": "Минимализм",
+    "styles": [
+      "Минимализм",
+      "Аналоговые",
+      "Необычные"
+    ],
+    "summary": "Часовая стрелка видна только у края циферблата. Крупная цифра часа и короткая дуга минут; цвета и дополнительные показатели настраиваются.",
+    "manifestWFFVersion": 4,
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true
+  },
+  {
+    "id": "cozy_days",
+    "name": "Cozy Days",
+    "repository": "wallacer89/cozy-days-watchface",
+    "branch": "master",
+    "module": "app/src/main",
+    "author": "wallacer89",
+    "category": "Иллюстрации",
+    "styles": [
+      "Иллюстрации",
+      "Цифровые"
+    ],
+    "summary": "Пиксельная комната со сменой сцен по времени и дню недели, временем, шагами и погодой. Есть упрощённый режим при низком заряде.",
+    "license": "MIT",
+    "sparse": false,
+    "publishSources": true
+  },
+  {
+    "id": "aurora_farm",
+    "name": "Aurora Farm",
+    "repository": "ArtTemiiss/aurora-farm-watchface",
+    "module": "source",
+    "author": "Bharathy · ArtTemiiss",
+    "category": "Иллюстрации",
+    "styles": [
+      "Иллюстрации",
+      "Цифровые"
+    ],
+    "summary": "Анимированная ферма: дневная история, северное сияние ночью, шаги и настраиваемый слот сна. Анимация выключается в ambient; слот сна требует подходящего источника на часах.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true
+  },
+  {
+    "id": "chrona_classic_aurora",
+    "name": "Classic Aurora",
+    "repository": "Anupam890/chroma---watch-faces",
+    "module": "watchfaces/classic_aurora/src/main",
+    "author": "Anupam890 · Chrona",
+    "category": "Классические",
+    "styles": [
+      "Классические",
+      "Аналоговые"
+    ],
+    "summary": "Тёмный аналоговый циферблат с тонкими отметками, стрелками и цветовым акцентом.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true,
+    "normalizeWFF": [
+      "timeTextBounds",
+      "resourceNames",
+      "variantOrder"
+    ],
+    "rasterizeVectors": true,
+    "minimumWFFVersion": 2
+  },
+  {
+    "id": "chrona_mono_digital",
+    "name": "Chrona Mono",
+    "repository": "Anupam890/chroma---watch-faces",
+    "module": "watchfaces/mono_digital/src/main",
+    "author": "Anupam890 · Chrona",
+    "category": "Минимализм",
+    "styles": [
+      "Минимализм",
+      "Цифровые"
+    ],
+    "summary": "Крупные часы и минуты друг над другом, контрастная типографика и дата.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true,
+    "normalizeWFF": [
+      "timeTextBounds",
+      "resourceNames",
+      "variantOrder"
+    ],
+    "enabled": false,
+    "exclusionReason": "Upstream WFF contains unresolved schema or configuration errors; not published."
+  },
+  {
+    "id": "chrona_pulse_sport",
+    "name": "Pulse Sport",
+    "repository": "Anupam890/chroma---watch-faces",
+    "module": "watchfaces/pulse_sport/src/main",
+    "author": "Anupam890 · Chrona",
+    "category": "Информационные",
+    "styles": [
+      "Информационные",
+      "Цифровые"
+    ],
+    "summary": "Спортивная компоновка с кольцами показателей, погодой, шагами и пульсом по доступным данным.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true,
+    "normalizeWFF": [
+      "timeTextBounds",
+      "resourceNames",
+      "variantOrder"
+    ],
+    "enabled": false,
+    "exclusionReason": "Upstream WFF contains unresolved schema or configuration errors; not published."
+  },
+  {
+    "id": "chrona_skyline_weather",
+    "name": "Skyline Weather",
+    "repository": "Anupam890/chroma---watch-faces",
+    "module": "watchfaces/skyline_weather/src/main",
+    "author": "Anupam890 · Chrona",
+    "category": "Информационные",
+    "styles": [
+      "Информационные",
+      "Цифровые"
+    ],
+    "summary": "Погодный циферблат с крупным временем, температурой и прогнозом по данным Wear OS.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true,
+    "normalizeWFF": [
+      "timeTextBounds",
+      "resourceNames",
+      "variantOrder"
+    ],
+    "enabled": false,
+    "exclusionReason": "Upstream WFF contains unresolved schema or configuration errors; not published."
+  },
+  {
+    "id": "chrona_memories_photo",
+    "name": "Memories Photo",
+    "repository": "Anupam890/chroma---watch-faces",
+    "module": "watchfaces/memories_photo/src/main",
+    "author": "Anupam890 · Chrona",
+    "category": "Иллюстрации",
+    "styles": [
+      "Иллюстрации",
+      "Цифровые"
+    ],
+    "summary": "Цифровое время на фоне изображения. Фотослот и оформление настраиваются через редактор циферблата на часах.",
+    "license": "MIT",
+    "branch": "main",
+    "sparse": false,
+    "publishSources": true,
+    "normalizeWFF": [
+      "timeTextBounds",
+      "resourceNames",
+      "variantOrder",
+      "photoConfiguration"
+    ],
+    "enabled": false,
+    "exclusionReason": "Upstream WFF contains unresolved schema or configuration errors; not published."
   }
 ]

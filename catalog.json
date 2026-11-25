@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T21:42:28.171517+00:00",
+  "updatedAt": "2026-11-25T00:22:49.317581+00:00",
   "items": [
     {
       "id": "avionics_radar",
@@ -1130,6 +1130,159 @@
       "minimumSDK": 34,
       "wffVersion": 2,
       "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Phosphor/phosphor-2e75e57bdebaa16f-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "arcminute",
+      "name": "Arcminute",
+      "author": "arfct",
+      "summary": "Часовая стрелка видна только у края циферблата. Крупная цифра часа и короткая дуга минут; цвета и дополнительные показатели настраиваются.",
+      "category": "Минимализм",
+      "styles": [
+        "Минимализм",
+        "Аналоговые",
+        "Необычные"
+      ],
+      "sourceURL": "https://github.com/arfct/arcminute-watchface",
+      "sourceRevision": "c05c04685380653676e9bdf4abb5f0e6ff5151e7",
+      "updatedAt": "2026-11-15T03:49:50Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Arcminute/arcminute-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Arcminute/arcminute-5c5a1ec97c467130.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Arcminute/arcminute-5c5a1ec97c467130.swf",
+      "sha256": "5c5a1ec97c46713051581187381eae0092289f6c4d91ab54e8572a84694b6f60",
+      "bytes": 46096,
+      "minimumSDK": 36,
+      "wffVersion": 4,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Arcminute/arcminute-3242480ddb4b51cd-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "nightdial",
+      "name": "Night Dial",
+      "author": "ls6777",
+      "summary": "Часы без стрелок: время отмечено на кольце, вокруг — погода, пульс и настраиваемые показатели. Фактические данные зависят от выбранных источников complications.",
+      "category": "Информационные",
+      "styles": [
+        "Информационные",
+        "Необычные"
+      ],
+      "sourceURL": "https://github.com/ls6777/NightDial",
+      "sourceRevision": "b208e73f9c891ad1f6dceeb8a07fb39459ba3ec4",
+      "updatedAt": "2026-11-24T20:44:48Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Night%20Dial/nightdial-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Night%20Dial/nightdial-708b2e12c736a29b.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Night%20Dial/nightdial-708b2e12c736a29b.swf",
+      "sha256": "708b2e12c736a29bcfb94c759495ad214560d00a52492ec5e68ccfd9e5c71a65",
+      "bytes": 373836,
+      "minimumSDK": 36,
+      "wffVersion": 4,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Night%20Dial/nightdial-3441be5d5e382f1a-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "aurora_farm",
+      "name": "Aurora Farm",
+      "author": "Bharathy · ArtTemiiss",
+      "summary": "Анимированная ферма: дневная история, северное сияние ночью, шаги и настраиваемый слот сна. Анимация выключается в ambient; слот сна требует подходящего источника на часах.",
+      "category": "Иллюстрации",
+      "styles": [
+        "Иллюстрации",
+        "Цифровые"
+      ],
+      "sourceURL": "https://github.com/ArtTemiiss/aurora-farm-watchface",
+      "sourceRevision": "aab55beb71d6ea2f8583fb306789197608fb4a11",
+      "updatedAt": "2026-11-11T15:48:09Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Aurora%20Farm/aurora_farm-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Aurora%20Farm/aurora_farm-220f86efcb574418.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Aurora%20Farm/aurora_farm-220f86efcb574418.swf",
+      "sha256": "220f86efcb574418f8c2b970cc16886052bf81715be84f44ccdae1439941cffe",
+      "bytes": 482042,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Aurora%20Farm/aurora_farm-c3e3af5a78364c2c-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "chrona_classic_aurora",
+      "name": "Classic Aurora",
+      "author": "Anupam890 · Chrona",
+      "summary": "Тёмный аналоговый циферблат с тонкими отметками, стрелками и цветовым акцентом.",
+      "category": "Классические",
+      "styles": [
+        "Классические",
+        "Аналоговые"
+      ],
+      "sourceURL": "https://github.com/Anupam890/chroma---watch-faces",
+      "sourceRevision": "0559366ce49a888cdd68b01ce26c07673bd864d5",
+      "updatedAt": "2026-10-30T08:17:06Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Classic%20Aurora/chrona_classic_aurora-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Classic%20Aurora/chrona_classic_aurora-a61d01d96d21a4cb.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Classic%20Aurora/chrona_classic_aurora-a61d01d96d21a4cb.swf",
+      "sha256": "a61d01d96d21a4cbba383b524d93fe24b30071d7af9c0332660d59a2d0d20f96",
+      "bytes": 30280,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Classic%20Aurora/chrona_classic_aurora-cf00e06895f586aa-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "neon_grid",
+      "name": "Neon Grid",
+      "author": "alejozd",
+      "summary": "Неоновая приборная панель: стрелки, цифровое время, погода и показатели активности. Три палитры настраиваются в редакторе часов.",
+      "category": "Технические",
+      "styles": [
+        "Технические",
+        "Аналоговые",
+        "Цифровые",
+        "Информационные"
+      ],
+      "sourceURL": "https://github.com/alejozd/neon-grid-watchface",
+      "sourceRevision": "786eabc1e800b0174030bff82d2b69eb2283d17d",
+      "updatedAt": "2026-11-22T04:33:22Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Neon%20Grid/neon_grid-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Neon%20Grid/neon_grid-00e316ebb5d3cc70.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Neon%20Grid/neon_grid-00e316ebb5d3cc70.swf",
+      "sha256": "00e316ebb5d3cc704b5eaedad7fa10cfae50e5c771ae9ff27e493be877f11e51",
+      "bytes": 354287,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Neon%20Grid/neon_grid-d7871ccc1ea605d9-source.zip",
       "brands": [
         "Galaxy Watch",
         "Pixel Watch",
@@ -3413,6 +3566,99 @@
         "Необычные",
         "Цифровые"
       ]
+    }
+  ],
+  "extendedItems": [
+    {
+      "id": "cozy_days",
+      "name": "Cozy Days",
+      "author": "wallacer89",
+      "summary": "Пиксельная комната со сменой сцен по времени и дню недели, временем, шагами и погодой. Есть упрощённый режим при низком заряде.",
+      "category": "Иллюстрации",
+      "styles": [
+        "Иллюстрации",
+        "Цифровые"
+      ],
+      "sourceURL": "https://github.com/wallacer89/cozy-days-watchface",
+      "sourceRevision": "5c440b4f4acf0c4da2224eff756bc1d4e49528d1",
+      "updatedAt": "2026-08-11T23:59:57Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Cozy%20Days/cozy_days-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Cozy%20Days/cozy_days-77dec2df48b3c795.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Cozy%20Days/cozy_days-77dec2df48b3c795.swf",
+      "sha256": "77dec2df48b3c79596548a464e66137c8b3f83fe9d7d39e9dd366e3ddfc5ccff",
+      "bytes": 6111547,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Cozy%20Days/cozy_days-5f666bde76d9dfd9-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "hex_editor",
+      "name": "Hex Editor",
+      "author": "nitish1306",
+      "summary": "Время и показатели в стиле шестнадцатеричного редактора и CRT-терминала.",
+      "category": "Технические",
+      "styles": [
+        "Технические",
+        "Ретро",
+        "Цифровые"
+      ],
+      "sourceURL": "https://github.com/nitish1306/wear-os-hex-editor-watchface",
+      "sourceRevision": "ef76b45052bad74b7e13cf5538e8e1b7b26734dc",
+      "updatedAt": "2026-11-23T13:21:47Z",
+      "license": "GPL-3.0",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Hex%20Editor/hex_editor-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Hex%20Editor/hex_editor-a565e85edb49403b.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Hex%20Editor/hex_editor-a565e85edb49403b.swf",
+      "sha256": "a565e85edb49403b5ac47633855ea2c3df0d2df82a1afff4597600e0cdce30bc",
+      "bytes": 3021633,
+      "minimumSDK": 34,
+      "wffVersion": 2,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Hex%20Editor/hex_editor-a4282380c59c7c26-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
+    },
+    {
+      "id": "earth_day_night",
+      "name": "Earth Day/Night",
+      "author": "henderjj",
+      "summary": "Земля с дневной и ночной стороной, орбита времени и стрелки.",
+      "category": "Космос",
+      "styles": [
+        "Космос",
+        "Аналоговые"
+      ],
+      "sourceURL": "https://github.com/henderjj/wear-os-watch-faces",
+      "sourceRevision": "066bceb3a231effc992ee3e2cd26e5bb70005b0f",
+      "updatedAt": "2026-11-22T00:29:15Z",
+      "license": "MIT",
+      "licenseURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Earth%20Day_Night/earth_day_night-LICENSE.txt",
+      "previewURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Earth%20Day_Night/earth_day_night-f433da3ddc8be649.png",
+      "bundleURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Earth%20Day_Night/earth_day_night-f433da3ddc8be649.swf",
+      "sha256": "f433da3ddc8be6492f490e7bbe03c4a955c568d8d92d90e1e5a4ed6229a97393",
+      "bytes": 6288051,
+      "minimumSDK": 33,
+      "wffVersion": 1,
+      "sourceArchiveURL": "https://raw.githubusercontent.com/slavyano4kaa/SlavyaWearable-Catalog/main/Watch%20Faces/Galaxy%20Watch/Earth%20Day_Night/earth_day_night-8bc509c5e45a9298-source.zip",
+      "brands": [
+        "Galaxy Watch",
+        "Pixel Watch",
+        "Xiaomi Watch",
+        "Другие Wear OS"
+      ],
+      "displayShape": "round"
     }
   ]
 }
